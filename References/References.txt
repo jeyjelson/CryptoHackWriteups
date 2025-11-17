@@ -1,0 +1,17 @@
+CopyPasteIt, 2019. XOR-ing and Summing Two Black and White Images. Stack Overflow. [online] Available at: https://stackoverflow.com/questions/54398627/xor-ing-and-summing-two-black-and-white-images
+ [Accessed 31 October 2025].
+
+- used in Lemur_XOR.py
+
+Pillow (PIL Fork). (2025). ImageChops (‘channel operations’) module. [online] Available at: https://pillow.readthedocs.io/en/stable/reference/ImageChops.html [Accessed 31 Oct. 2025].
+- used in Lemur_XOR.py
+
+
+Alpertron. (2025) Integer factorization calculator. Available at: https://www.alpertron.com.ar/ECM.HTM
+(Accessed: 31 October 2025).
+
+- used in Factoring.py
+
+Padilla, J., 2022. PyJWT documentation [online]. Available at: https://pyjwt.readthedocs.io/en/stable/
+ [Accessed 31 October 2025].
+- used in JWT_sessions.py
