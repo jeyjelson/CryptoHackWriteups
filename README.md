@@ -4,4 +4,4 @@ These are my write-ups and solution scripts for selected CryptoHack challenges, 
 The content is organized into directories by difficulty level: Beginner (10–50 pts), Intermediate (60–120 pts), Hard (150 pts), and a References folder. Each challenge is in its own subfolder with the relevant code and supporting files.
 
 ##  Click to see my CryptoHack profile
-[<img src="https://cryptohack.org/static/img/logo.png" width="60">](https://cryptohack.org/user/JeyJey1204/)
+<a href="https://cryptohack.org/user/JeyJey1204/"><img width="30" src="https://cryptohack.org/static/favicon/favicon.ico"></a>
